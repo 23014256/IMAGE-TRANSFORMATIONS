@@ -27,10 +27,13 @@ Define an angle of rotation in radians (here, 10 degrees).Construct a rotation m
 ### Step 7 :
 Define a region of interest by specifying the desired range of rows and columns to crop the image (here, from row 100 to row 300 and from column 100 to column 300).Use array slicing to extract the cropped region from the input image.Display the cropped image using Matplotlib.
 
-## Program:
+## Program Developed By:
+- **Name:** Suman G 
+- **Register Number:**  212223240163
+
 ```python
-Developed By: SUMAN
-Register Number:212223240163
+
+
 i)Image Translation
 ```
 ```
